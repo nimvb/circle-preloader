@@ -32,8 +32,8 @@ Preloader.defaultProps = {
   backgroundColor: 'rgb(0, 0, 0)',
   opacity: '1',
   shadowColor: '#2187e7',
-  outerColor: 'rgba(0, 183, 229)',
-  innerColor: 'rgba(0, 183, 229)'
+  outerColor: 'rgb(0, 183, 229)',
+  innerColor: 'rgb(0, 183, 229)'
 }
 
 export default injectSheet(styles)(Preloader)
