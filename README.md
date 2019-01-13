@@ -15,12 +15,12 @@ npm install --save circle-preloader
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'circle-preloader'
+import {Preloader} from 'circle-preloader'
 
 class Example extends Component {
   render () {
     return (
-      <MyComponent />
+      <Preloader />
     )
   }
 }
