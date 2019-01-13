@@ -37,6 +37,7 @@
     "prop-types": "^15.5.4",
     "react": "^15.0.0 || ^16.0.0",
     "react-dom": "^15.0.0 || ^16.0.0",
+    "jss": "^9.8.7",
     "react-jss": "^8.6.1"
   },
   "devDependencies": {
@@ -72,6 +73,7 @@
     "dist"
   ],
   "dependencies": {
+    "jss": "^9.8.7",
     "react-jss": "^8.6.1"
   }
 }
