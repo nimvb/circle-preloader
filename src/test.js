@@ -1,7 +1,7 @@
-import ExampleComponent from './'
+import Preloader from './components/Preloader'
 
-describe('ExampleComponent', () => {
+describe('PreloaderComponent', () => {
   it('is truthy', () => {
-    expect(ExampleComponent).toBeTruthy()
+    expect(Preloader).toBeTruthy()
   })
 })

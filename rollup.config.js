@@ -35,5 +35,11 @@ export default {
     }),
     resolve(),
     commonjs()
+  ],
+  external: [
+    'react',
+    'react-dom',
+    'react-jss',
+    'prop-types'
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "name": "nim-preloader-example",
-  "homepage": "https://nimvb.github.io/nim-preloader",
+  "name": "circle-preloader-example",
+  "homepage": "https://nimvb.github.io/circle-preloader",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "circle-preloader": "file:..",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "^1.1.4",
-    "nim-preloader": "file:.."
+    "react-scripts": "^1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",

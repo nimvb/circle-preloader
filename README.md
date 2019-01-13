@@ -1,13 +1,13 @@
-# nim-preloader
+# circle-preloader
 
 > 
 
-[![NPM](https://img.shields.io/npm/v/nim-preloader.svg)](https://www.npmjs.com/package/nim-preloader) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/circle-preloader.svg)](https://www.npmjs.com/package/circle-preloader) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save nim-preloader
+npm install --save circle-preloader
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save nim-preloader
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'nim-preloader'
+import MyComponent from 'circle-preloader'
 
 class Example extends Component {
   render () {
@@ -28,4 +28,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [nimvb](https://github.com/nimvb)
+MIT © [Nima Afzal Ahangaran](https://github.com/nimvb)
