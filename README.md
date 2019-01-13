@@ -26,10 +26,6 @@ class Example extends Component {
 }
 ```
 
-## License
-
-MIT © [Nima Afzal Ahangaran](https://github.com/nimvb)
-
 ### Properties (props)
 
 <table>
@@ -61,5 +57,9 @@ MIT © [Nima Afzal Ahangaran](https://github.com/nimvb)
     <td>rgb(0, 183, 229)</td>
   </tr>
 </table>
+
+## License
+
+MIT © [Nima Afzal Ahangaran](https://github.com/nimvb)
 
 
